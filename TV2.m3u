@@ -481,7 +481,7 @@ https://18593.live.streamtheworld.com/XEJP_FMAAC.aac
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno op2
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/996.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno -2
@@ -490,11 +490,11 @@ https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99
 #EXTINF:-1 tvg-id="De Las Estrellas Mexico" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" group-title="MEXICO",2.1 De Las Estrellas Mexico
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1071.m3u8
 
-#EXTINF:-1 tvg-id="De Las Estrellas Mexico" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" group-title="MEXICO",2.1 De Las Estrellas Mexico
+#EXTINF:-1 tvg-id="De Las Estrellas Mexico" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" group-title="MEXICO",2.1 De Las Estrellas Mexico op2
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/978.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i0.wp.com/sinembargo.mx/wp-content/uploads/2016/10/programacion-canal-3-imagen4.jpeg" group-title="MEXICO",3.1 Imagen TV
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/19846.m3u8
+http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10822
 
 #EXTINF:-1 tvg-id="Excelsior TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/excelsior_tv.png" group-title="MEXICO",3.4 Excelsior TV
 https://m3u-editor.com/serve/rokumaniaiptv/296249287
@@ -504,6 +504,9 @@ https://www.youtube.com/watch?v=csEe9aSS4UM
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",4.1 Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",4.1 Foro TV op2
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/138644
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",4.1 Foro TV (youtube)
 https://www.youtube.com/watch?v=9RzOKoaDnC8
@@ -523,10 +526,10 @@ https://www.youtube.com/watch?v=5WNdbFOueAI
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7 op2
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2375.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7 op2
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7 op4
 https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
 #EXTINF:-1 tvg-id="A Mas" tvg-logo="https://pbs.twimg.com/media/C80nB1RU0AENG1S.png" group-title="MEXICO",7.2 A Mas
@@ -534,6 +537,9 @@ https://m3u-editor.com/serve/rkmania-iptvcuack/296249317
 
 #EXTINF:-1 tvg-id="9 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico.png" group-title="MEXICO",9.1 El Nu9ve
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2373.m3u8
+
+#EXTINF:-1 tvg-id="9 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico.png" group-title="MEXICO",9.1 El Nu9ve
+http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8?token=e195efcfe90b4f372fdac8584c0fa7de
 
 #EXTINF:-1 tvg-id="El Heraldo TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/heraldo_tv.png" group-title="MEXICO",10.1 El Heraldo TV
 https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ydmNwh_QsUOQ4WAgbdZRbqo)/dm/3/x792196/d/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
@@ -544,15 +550,12 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="11 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="11 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once internacional
+#EXTINF:-1 tvg-id="11 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once internacional op2
 http://live.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Onceninos.mx" tvg-logo="https://onceninos.tv/wp-content/uploads/2018/04/Banner-logos-1-e1523046191844.png" group-title="MEXICO",11.2 Once Ninos
 http://hispanotv.net:8080/live/SMARTTVC5/DCkfFqwjUq/41968.m3u8
-
-#EXTINF:-1 tvg-id="Onceninos.mx" tvg-logo="https://onceninos.tv/wp-content/uploads/2018/04/Banner-logos-1-e1523046191844.png" group-title="MEXICO",11.2 Once Ninos
-http://hispanotv.net:8080/live/SMARTTVC5/DCkfFqwjUq/41970.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico.png" group-title="MEXICO",14.1 Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
@@ -666,7 +669,7 @@ https://playback2.akamaized.net/streams/3789491_8003011_lsiiplbeh12lkn5mlxr_1/ex
 https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_4gqi2xn5hjms.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2017_04/large.58f3a89dbca56_CadenaH.png.92c316bdc55cf1f2148eac61f66b9cab.png" group-title="REGIONAL",CMX: Cadena H
-https://stream-01.nyc.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhlBiaxRGniB680qeQ55vhMU)/dm/3/x7lyptj/d/live-4.m3u8#cell=lnyc&qos_vpart=1
+http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10813
 
 #EXTINF:-1 tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="REGIONAL",CMX: Efekto TV
 https://cdn.jwplayer.com/manifests/bez1terN.m3u8
@@ -734,7 +737,7 @@ https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.
 http://streamingcws20.com:1935/c7cultura/videoc7cultura/chunklist_w1060565358.m3u8
 
 #EXTINF:-1 tvg-id="cb television" tvg-logo="https://i.imgur.com/zA61jld.png" group-title="REGIONAL",MIC: CBTV Michoacan
-https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w68667375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDEwOjM1OjMxIFBNJmhhc2hfdmFsdWU9d3lFSENsY1ltRE1IK091czVPQWhqZz09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
+http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/202428
 
 #EXTINF:-1 tvg-id="CBTV(Spanish).us" tvg-logo="https://i.imgur.com/zA61jld.png" group-title="REGIONAL",MIC: CBTV Michoacan OP2
 https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w1492543310.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIxIDM6Mjg6NTIgUE0maGFzaF92YWx1ZT1aTTlVSzFtM243b0JIZ040dE5mUWdnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ
@@ -902,7 +905,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf
 #EXTINF:-1 tvg-id="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="NIÑOS Y JOVENES",Animax TV | Japon
 http://210.210.155.35/dr9445/h/h144/index.m3u8
 
-#EXTINF:-1 tvg-id="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="NIÑOS Y JOVENES",Animax TV | Japon
+#EXTINF:-1 tvg-id="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="NIÑOS Y JOVENES",Animax TV op2 | Japon
 https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="NIÑOS Y JOVENES",Aniplus HD | Japon
@@ -956,6 +959,9 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://i.imgur.com/jDhq0ds.jpg" group-title="NIÑOS Y JOVENES",El Patio TV | España
 http://alchimie-elpatio-1-es.samsung.wurl.com/manifest/3000.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://i.imgur.com/b0.jpg" group-title="NIÑOS Y JOVENES",EnerGeek | Chile
+https://tvstreaming.cl:1936/8062/8062/chunklist_w519124289.m3u8
+
 #EXTINF:-1 tvg-id="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8
 
@@ -966,7 +972,7 @@ https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="NIÑOS Y JOVENES",Kanade TV | Chile
-https://stream.jetixtv.club/hls/kanade.m3u8
+http://45.32.74.87:8080/hls/kanadetv.m3u8
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="NIÑOS Y JOVENES",Kanade TV | Chile
 https://m3u-editor.com/serve/televito85/296537383
@@ -993,7 +999,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
 
-#EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://i.ytimg.com/vi/vWdBbDE49mo/hqdefault.jpg" group-title="NIÑOS Y JOVENES",Magic Kids | Argentina
+#EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://i.ytimg.com/vi/vWdBbDE49mo/hqdefault.jpg" group-title="NIÑOS Y JOVENES",Magic Kids op2 | Argentina
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/640x360/mytoonz_logo.jpg" group-title="NIÑOS Y JOVENES",My Toonz (Inglés) | Estados Unidos
@@ -1205,7 +1211,7 @@ http://latinosiptv.online:8090/live/notocar/xmauc84bx1/19846.m3u8
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2623.m3u8
 
 #EXTINF:-1 tvg-id="Afizzionados" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/afizzionados.png" group-title="DEPORTES",AfiZZionados | México
-https://m3u-editor.com/serve/rkmania-iptvcuack/296249197
+http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10914
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES",All Sports | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/assets/images/logo.png" group-title="DEPORTES",Al Kass Sports | Qatar
@@ -1237,19 +1243,41 @@ http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2289.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",Directv Sports + | Ecuador
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
 #EXTINF:-1 tvg-id="ESPN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2275.m3u8
+#EXTINF:-1 tvg-id="ESPN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2302.m3u8
+#EXTINF:-1 tvg-id="ESPN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2298.m3u8
+#EXTINF:-1 tvg-id="ESPN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2293.m3u8
+#EXTINF:-1 tvg-id="ESPN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Arg
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2297.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2273.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2247.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33001.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 | Arg
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2246.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2274.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 | Arg
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2299.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 | Arg
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2294.m3u8
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes.png" group-title="DEPORTES",ESPN Deportes | Mexico
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2302.m3u8
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica.png" group-title="DEPORTES",ESPN Extra | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2276.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica.png" group-title="DEPORTES",ESPN Extra | Arg
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2301.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_1.png" group-title="DEPORTES",Eurosport 1 | Francia
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2.png" group-title="DEPORTES",Eurosport 2 | Francia
 http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+#EXTINF:-1 tvg-id="Deportes 1" tvg-logo="https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg" group-title="DEPORTES-LMS",Eventos Deportivos mix
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/f1_latin_america-mediano.png" group-title="DEPORTES",Formula 1 | España
 http://31.220.41.90:8081/live/es-moviestarf1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/f1_latin_america-mediano.png" group-title="DEPORTES",Formula 1 op2 | España
@@ -1276,12 +1304,6 @@ http://latinosiptv.online:8090/live/notocar/xmauc84bx1/20898.m3u8
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
 #EXTINF:-1 tvg-logo="https://connectnow.global/images/logo-claro-png.png" group-title="DEPORTES",Marca Claro 1 (youtube) | Mexico
 https://www.youtube.com/watch?v=cN00SBjPwn8
-#EXTINF:-1 tvg-logo="https://connectnow.global/images/logo-claro-png.png" group-title="DEPORTES",Marca Claro 2 (youtube) | Mexico
-https://www.youtube.com/watch?v=BQpZLcoSrdM
-#EXTINF:-1 tvg-logo="https://connectnow.global/images/logo-claro-png.png" group-title="DEPORTES",Marca Claro 3 (youtube) | Mexico
-https://www.youtube.com/watch?v=7H0u_mKgufs
-#EXTINF:-1 tvg-logo="https://connectnow.global/images/logo-claro-png.png" group-title="DEPORTES",Marca Claro 4 (youtube) | Mexico
-https://www.youtube.com/watch?v=b5fZkdITMuk
 #EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_laliga.png" group-title="DEPORTES",Movistar La Liga 1 | España
 https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
 #EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_laliga.png" group-title="DEPORTES",Movistar La Liga 2 | España
@@ -1330,8 +1352,6 @@ http://31.220.41.88:8081/live/es-toros.stream/playlist.m3u8
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33381.m3u8
 #EXTINF:-1 tvg-id="TUDN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Mexico
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2259.m3u8
-#EXTINF:-1 tvg-id="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Estados Unidos
-https://m3u-editor.com/serve/rkmania-iptvcuack/296249224
 #EXTINF:-1 tvg-id="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Estados Unidos
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/19847.m3u8
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes.png" group-title="DEPORTES",TVC Deportes | México
@@ -2618,1387 +2638,161 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-EXTINF:-1,24/7..el pajaro loco
+
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..el pajaro loco
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/999.ts
-#EXTINF:-1,24/7..momentos musicales
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..momentos musicales
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/986.ts
-#EXTINF:-1,24/7..pinche pancho
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..pinche pancho
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/991.ts
-#EXTINF:-1,24/7..40 y 20..y..renta congelada
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..40 y 20..y..renta congelada
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/989.ts
-#EXTINF:-1,24/7..YUGIOH
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..YUGIOH
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/718.ts
-#EXTINF:-1,24/7..vecinos
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..vecinos
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/729.ts
-#EXTINF:-1,24/7..una familia de 10
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..una familia de 10
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/719.ts
-#EXTINF:-1,24/7..Mr Bean
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..Mr Bean
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/728.ts
-#EXTINF:-1,24/7..Medialuna y las noches mágicas
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..Medialuna y las noches mágicas
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/720.ts
-#EXTINF:-1,24/7..Lazy Town
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..Lazy Town
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/721.ts
-#EXTINF:-1,24/7..la pequeña lulu
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la pequeña lulu
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/722.ts
-#EXTINF:-1,24/7..la epoca de la disco de oro
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la epoca de la disco de oro
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/727.ts
-#EXTINF:-1,24/7..en busca del valle encantado
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..en busca del valle encantado
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/723.ts
-#EXTINF:-1,24/7..EL CHAPULIN COLORADO
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..EL CHAPULIN COLORADO
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/724.ts
-#EXTINF:-1,24/7..ed edd y eddy
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..ed edd y eddy
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/725.ts
-#EXTINF:-1,24/7..Cuentos de había una vez
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..Cuentos de había una vez
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/726.ts
-#EXTINF:-1,24/7..la niñera
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la niñera
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/660.ts
-#EXTINF:-1,24/7..el chavo del ocho
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..el chavo del ocho
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/661.ts
-#EXTINF:-1,24/7..srita cometa
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..srita cometa
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/663.ts
-#EXTINF:-1,24/7..los pitufos
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..los pitufos
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/664.ts
-#EXTINF:-1,24/7..la pantera rosa
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la pantera rosa
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/670.ts
-#EXTINF:-1,24/7..la hora pico
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la hora pico
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/673.ts
-#EXTINF:-1,24/7..la familia peluche
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la familia peluche
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/674.ts
-#EXTINF:-1,24/7..la familia monters
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..la familia monters
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/672.ts
-#EXTINF:-1,24/7..he man
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..he man
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/668.ts
-#EXTINF:-1,24/7..gasparin y sus amigos
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..gasparin y sus amigos
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/666.ts
-#EXTINF:-1,24/7..el inspector gadget
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..el inspector gadget
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/667.ts
-#EXTINF:-1,24/7..el chavo animado
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..el chavo animado
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/665.ts
-#EXTINF:-1,24/7..cascarabias
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..cascarabias
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/671.ts
-#EXTINF:-1,24/7..caricaturas clasicas
+#EXTINF:-1 group-title="24/7 LMS-3",24/7..caricaturas clasicas
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/669.ts
-#EXTINF:-1,24/7.. bajoterra
+#EXTINF:-1 group-title="24/7 LMS-3",24/7.. bajoterra
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/662.ts
 
-#EXTINF:-1,24/7 Camaras Escondidas TV ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186355
-#EXTINF:-1,24/7 Caso Cerrado 
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/189868
-#EXTINF:-1,24/7 Chespirito
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177991
-#EXTINF:-1,24/7 Contacto Extranormal
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188922
-#EXTINF:-1,24/7 Death Note
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186364
-#EXTINF:-1,24/7 DRAGON BALL Z
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177992
-#EXTINF:-1,24/7 El Chavo del 8
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177965
-#EXTINF:-1,24/7 El Principe del Rap
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177983
-#EXTINF:-1,24/7 Escandalosos 3 ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186385
-#EXTINF:-1,24/7 Futurama
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186387
-#EXTINF:-1,24/7 Hagalo Usted Mismo ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186391
-#EXTINF:-1,24/7 Historias de Ultratumba
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188923
-#EXTINF:-1,24/7 I| 2 Perros Tontos
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186340
-#EXTINF:-1,24/7 I| 31 Minutos
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186341
-#EXTINF:-1,24/7 I| 31 Minutos ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186342
-#EXTINF:-1,24/7 I| Aaahh Real Monsters
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186343
-#EXTINF:-1,24/7 I| Agreetsuko ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186344
-#EXTINF:-1,24/7 I| Amazon Kids ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186346
-#EXTINF:-1,24/7 I| Animaniacs
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186347
-#EXTINF:-1,24/7 I| Ben 10
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177997
-#EXTINF:-1,24/7 I| Bob Esponja
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186352
-#EXTINF:-1,24/7 I| Buzz Lightyear
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186354
-#EXTINF:-1,24/7 I| Chicas Superpoderosas
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186358
-#EXTINF:-1,24/7 I| Chu Chu TV ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186359
-#EXTINF:-1,24/7 I| DC Hero Super Girls
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186363
-#EXTINF:-1,24/7 I| Detective Conan
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186365
-#EXTINF:-1,24/7 I| Disney Live Action ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186368
-#EXTINF:-1,24/7 I| Disney Princess ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186369
-#EXTINF:-1,24/7 I| Doraemon
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186370
-#EXTINF:-1,24/7 I| Doug
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186371
-#EXTINF:-1,24/7 I| Duck Dodgers
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186379
-#EXTINF:-1,24/7 I| El Coyote y el Correcaminos
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177972
-#EXTINF:-1,24/7 I| El Laboratorio de Dexter
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186380
-#EXTINF:-1,24/7 I| El Pajaro Loco
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186381
-#EXTINF:-1,24/7 I| El Show de Garfield
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186382
-#EXTINF:-1,24/7 I| Fenomenoide
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186386
-#EXTINF:-1,24/7 I| Gallo claudio
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186388
-#EXTINF:-1,24/7 I| Gravity Falls
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203978
-#EXTINF:-1,24/7 I| Green Egg and Ham (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186389
-#EXTINF:-1,24/7 I| Happy Halloween Kids
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186392
-#EXTINF:-1,24/7 I| Hey Arnold
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177984
-#EXTINF:-1,24/7 I| Hey Kids ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186394
-#EXTINF:-1,24/7 I| House of Mouse
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186395
-#EXTINF:-1,24/7 I| Huevos Verdes con Jamon
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186396
-#EXTINF:-1,24/7 I| Jimmy Neutron
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186397
-#EXTINF:-1,24/7 I| Johnny Bravo
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186398
-#EXTINF:-1,24/7 I| Kung Fu Panda
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186399
-#EXTINF:-1,24/7 I| La Casa de Mickey Mouse
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186400
-#EXTINF:-1,24/7 I| La Guardia del Leon
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186401
-#EXTINF:-1,24/7 I| La liga de la justicia
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203981
-#EXTINF:-1,24/7 I| La Sirenita
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186404
-#EXTINF:-1,24/7 I| La Tropa Goofy
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186405
-#EXTINF:-1,24/7 I| Lilo & Stitch
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186406
-#EXTINF:-1,24/7 I| Lo Mejor de Donald
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186408
-#EXTINF:-1,24/7 I| Lo Mejor de Mickey
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186409
-#EXTINF:-1,24/7 I| Lo Mejor de Pluto
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186410
-#EXTINF:-1,24/7 I| Looney Tunes
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186411
-#EXTINF:-1,24/7 I| Looney Tunes Show
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186412
-#EXTINF:-1,24/7 I| Los Autos Locos
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186413
-#EXTINF:-1,24/7 I| Los Cazafantasmas
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186414
-#EXTINF:-1,24/7 I| Los Croods
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186415
-#EXTINF:-1,24/7 I| Los Gatos Samurai
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186416
-#EXTINF:-1,24/7 I| Los Picapiedras
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186418
-#EXTINF:-1,24/7 I| Los Supersonicos
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186424
-#EXTINF:-1,24/7 I| Masha y el Oso
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186425
-#EXTINF:-1,24/7 I| Mickey Mouse Channel
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186428
-#EXTINF:-1,24/7 I| Naruto
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177998
-#EXTINF:-1,24/7 I| Pantera Rosa
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177978
-#EXTINF:-1,24/7 I| Pato Aventura
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186433
-#EXTINF:-1,24/7 I| Pato Darwing
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186434
-#EXTINF:-1,24/7 I| Paw Patrol
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186435
-#EXTINF:-1,24/7 I| Peppa Pig
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186436
-#EXTINF:-1,24/7 I| Phineas & Ferb
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177966
-#EXTINF:-1,24/7 I| Pinguinos de Madagascar
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186437
-#EXTINF:-1,24/7 I| Pinky & Cerebro
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186438
-#EXTINF:-1,24/7 I| PlayKids ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186439
-#EXTINF:-1,24/7 I| Pocoyo
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186440
-#EXTINF:-1,24/7 I| Pokémon
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177996
-#EXTINF:-1,24/7 I| Princesa Sofia
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186441
-#EXTINF:-1,24/7 I| Quack Pack
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186442
-#EXTINF:-1,24/7 I| Sam y Cat
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186446
-#EXTINF:-1,24/7 I| Scooby Doo
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177995
-#EXTINF:-1,24/7 I| She-ra
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186448
-#EXTINF:-1,24/7 I| Street Shark
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186450
-#EXTINF:-1,24/7 I| Supercampeones
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186451
-#EXTINF:-1,24/7 I| Talking Tom
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186452
-#EXTINF:-1,24/7 I| Teen Titans GO
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186453
-#EXTINF:-1,24/7 I| Timon y Pumba
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186456
-#EXTINF:-1,24/7 I| Tiny Toons
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186457
-#EXTINF:-1,24/7 I| Tortugas Ninja
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186458
-#EXTINF:-1,24/7 I| Ultimate Spiderman (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186460
-#EXTINF:-1,24/7 I| Ultra Kids ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186462
-#EXTINF:-1,24/7 I| Vaca y Pollo
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177994
-#EXTINF:-1,24/7 I| Winnie the Pooh
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186469
-#EXTINF:-1,24/7 I| YooHoo and Friends ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186470
-#EXTINF:-1,24/7 I| |3 Now Kids
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186339
-#EXTINF:-1,24/7 La Familia P. Luche 
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/200378
-#EXTINF:-1,24/7 La Rosa de Guadalupe
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/180593
-#EXTINF:-1,24/7 M| Cinema 01
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210808
-#EXTINF:-1,24/7 M| Cinema 02
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210809
-#EXTINF:-1,24/7 M| Cinema 03
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210810
-#EXTINF:-1,24/7 M| Cinema 04
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210811
-#EXTINF:-1,24/7 M| Cinema 05
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210812
-#EXTINF:-1,24/7 M| Cinema 06
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210813
-#EXTINF:-1,24/7 M| Cinema 07
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210814
-#EXTINF:-1,24/7 M| Cinema 08
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210815
-#EXTINF:-1,24/7 M| Cinema 09
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210816
-#EXTINF:-1,24/7 M| Cinema 10
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210817
-#EXTINF:-1,24/7 M| Cinema 11
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210818
-#EXTINF:-1,24/7 M| Cinema 12
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210819
-#EXTINF:-1,24/7 M| Cinema 13
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210820
-#EXTINF:-1,24/7 M| Cinema 14
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210821
-#EXTINF:-1,24/7 M| Cinema 15
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210822
-#EXTINF:-1,24/7 M| Cinema 16
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210823
-#EXTINF:-1,24/7 M| Cinema 17
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210824
-#EXTINF:-1,24/7 M| Cinema 18
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210825
-#EXTINF:-1,24/7 M| Cinema 19
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210826
-#EXTINF:-1,24/7 M| Cinema 20
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210827
-#EXTINF:-1,24/7 M| Cinema 21
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210828
-#EXTINF:-1,24/7 M| Cinema 22
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210829
-#EXTINF:-1,24/7 M| Cinema 23
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210830
-#EXTINF:-1,24/7 M| Cinema 24
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210831
-#EXTINF:-1,24/7 M| Cinema 25
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210832
-#EXTINF:-1,24/7 M|cantinflas
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177979
-#EXTINF:-1,24/7 M|Cinema Accion Classics ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186310
-#EXTINF:-1,24/7 M|Cinema Anime [test]
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186311
-#EXTINF:-1,24/7 M|Cinema Ciencia Ficcion ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186312
-#EXTINF:-1,24/7 M|Cinema Comedia Este ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186313
-#EXTINF:-1,24/7 M|Cinema Comedia ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186314
-#EXTINF:-1,24/7 M|Cinema DC Comics ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186315
-#EXTINF:-1,24/7 M|Cinema DC Universe ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186316
-#EXTINF:-1,24/7 M|Cinema Disney Family ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186317
-#EXTINF:-1,24/7 M|Cinema Disney Pixar ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186318
-#EXTINF:-1,24/7 M|Cinema Dreamworks ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186319
-#EXTINF:-1,24/7 M|Cinema Familia ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186320
-#EXTINF:-1,24/7 M|Cinema Happy Madison ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186321
-#EXTINF:-1,24/7 M|Cinema Horror Classics ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186322
-#EXTINF:-1,24/7 M|Cinema Horror ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186323
-#EXTINF:-1,24/7 M|Cinema Lego Movies ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186324
-#EXTINF:-1,24/7 M|Cinema Marvel Animated ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186325
-#EXTINF:-1,24/7 M|Cinema Marvel Studios Este ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186326
-#EXTINF:-1,24/7 M|Cinema Marvel Studios Oeste ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186327
-#EXTINF:-1,24/7 M|Cinema Marvel Studios ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186328
-#EXTINF:-1,24/7 M|Cinema Navidad ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186329
-#EXTINF:-1,24/7 M|Clasicos de Disney
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/201070
-#EXTINF:-1,24/7 M|Dragon Ball Z Movies
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186378
-#EXTINF:-1,24/7 M|Moviecenter Kids ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186333
-#EXTINF:-1,24/7 M|Moviecenter Premium Este ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186334
-#EXTINF:-1,24/7 M|Moviecenter Premium Oeste ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186335
-#EXTINF:-1,24/7 M|Moviecenter Premium ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186336
-#EXTINF:-1,24/7 M|Pedro Infante
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/155806
-#EXTINF:-1,24/7 M|Peliculas Marvel
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177987
-#EXTINF:-1,24/7 M|Películas Acción
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203982
-#EXTINF:-1,24/7 M|Películas Fantasía
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203984
-#EXTINF:-1,24/7 M|Películas Romance
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203983
-#EXTINF:-1,24/7 M|Películas Terror
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203985
-#EXTINF:-1,24/7 M|Ultra Film ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186309
-#EXTINF:-1,24/7 Nosotros los Guapos
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/199785
-#EXTINF:-1,24/7 Smallville
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177989
-#EXTINF:-1,24/7 STARZ EDGE
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/196417
-#EXTINF:-1,24/7 S| Alerta Aeropuerto
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203977
-#EXTINF:-1,24/7 S| Alerta Máxima
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203975
-#EXTINF:-1,24/7 S| Malcolm
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203979
-#EXTINF:-1,24/7 S| Super Agente 86
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/203976
-#EXTINF:-1,24/7 TWD Channel
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186459
-#EXTINF:-1,24/7 Ultra Familia ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186461
-#EXTINF:-1,24/7 Una Familia de Diez
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/182332
-#EXTINF:-1,24/7 USA- HBO 2 HD
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/196427
-#EXTINF:-1,24/7 USA- HBO HD
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/196424
-#EXTINF:-1,24/7 USA- HBO SIGNATURE
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/196423
-#EXTINF:-1,24/7 USA- STARZ IN BLACK
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/196416
-#EXTINF:-1,24/7 Vecinos TEMP 1
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/189869
-#EXTINF:-1,24/7 Vecinos TEMP 2
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/189870
-#EXTINF:-1,24/7 VIP|| Disenchantment (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/178222
-#EXTINF:-1,24/7 VIP|| The Simpsons Retro (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/178221
-#EXTINF:-1,24/7 VIP|| Ultimate Spiderman (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/178223
-#EXTINF:-1,24/7 Xena La Princesa Guerrera
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/189216
-#EXTINF:-1,24/7 | Cuentos de la Cripta
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186362
-#EXTINF:-1,24/7 | Dinosaurios
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186366
-#EXTINF:-1,24/7 | The Big Bang Theory
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/177964
-#EXTINF:-1,24/7 || Batman (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186350
-#EXTINF:-1,24/7 || The Simpsons (Ing) ????
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186454
-#EXTINF:-1,24/7 || The Simpsons Retro (Ing)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/186455
-#EXTINF:-1,24/7: THE OFFICE S04
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/178935
-#EXTINF:-1,24/7: THE SIMPSONS S05
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/178962
-#EXTINF:-1,Tigres de Quintana Roo vs. Diablos Rojos del México - Playoffs, 2021 [10-08] 07:00 PM
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/216441
-#EXTINF:-1,ARG: America TV
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210836
-#EXTINF:-1,ARG: America TV HD
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210835
-#EXTINF:-1,ARG: C5N
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210837
-#EXTINF:-1,ARG: C5N
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210838
-#EXTINF:-1,ARG: Canal 21
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210839
-#EXTINF:-1,ARG: Canal 26
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210840
-#EXTINF:-1,ARG: Canal 26
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210841
-#EXTINF:-1,ARG: Canal de la Ciudad
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210842
-#EXTINF:-1,ARG: Canal de la Música
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210843
-#EXTINF:-1,ARG: Cine AR
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210844
-#EXTINF:-1,ARG: Ciudad Magazine
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210845
-#EXTINF:-1,ARG: CN23
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210846
-#EXTINF:-1,ARG: Conexión
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210847
-#EXTINF:-1,ARG: Cronica
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210848
-#EXTINF:-1,ARG: DEPORTV
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210849
-#EXTINF:-1,ARG: El Nueve
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210850
-#EXTINF:-1,ARG: El Nueve HD
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210851
-#EXTINF:-1,ARG: El Trece
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210852
-#EXTINF:-1,ARG: El Trece HQ
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210853
-#EXTINF:-1,ARG: Garaje
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210854
-#EXTINF:-1,ARG: Glitz
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210855
-#EXTINF:-1,ARG: IP NOTICIAS
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/216770
-#EXTINF:-1,ARG: LN
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210856
-#EXTINF:-1,ARG: Much Music
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210857
-#EXTINF:-1,ARG: Music Top
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210858
-#EXTINF:-1,ARG: Paka Paka
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210859
-#EXTINF:-1,ARG: Senado
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210860
-#EXTINF:-1,ARG |  SHOWSPORTS 
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/216769
-#EXTINF:-1,ARG: Telefe
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210861
-#EXTINF:-1,ARG: Telemax
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210862
-#EXTINF:-1,ARG: Telesur
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210863
-#EXTINF:-1,ARG: TN
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210864
-#EXTINF:-1,ARG: TV Publica
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210865
-#EXTINF:-1,ARG: TV5
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210866
-#EXTINF:-1,ARG: TVE
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210867
-#EXTINF:-1,ARG: Volver
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210868
-#EXTINF:-1,Argentina | A24
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210833
-#EXTINF:-1,Argentina | Cn5
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/210834
-#EXTINF:-1,BO | Unitel Santa Cruz
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/215948
-#EXTINF:-1,BO || ATB &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188400
-#EXTINF:-1,BO || Bolivia TV &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188402
-#EXTINF:-1,BO || Bolivision &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188404
-#EXTINF:-1,BO || Bolivision HD &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188403
-#EXTINF:-1,BO || Bolivision La Paz
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188405
-#EXTINF:-1,BO || Bolivision Santa Cruz &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188406
-#EXTINF:-1,BO || Cadena A &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188407
-#EXTINF:-1,BO || Gigavision &gt;)
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188408
-#EXTINF:-1,BO || Rec Online
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188415
-#EXTINF:-1,BO || Red Advenir
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/188413
 
 
 
 
 
 
-#EXTM3U
-#EXTINF:-1 tv2g-logo="https://i.imgur.com/3akxcS6.png" group-title="Aporte", https://paypal.me/MGHacker1
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tv2g-id="" tv2g-name="ANUNCIO SHORTGOD" tv2g-logo="" group-title="ShortGod",ANUNCIO: ShortGod
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 POWER RANGERS" tv2g-logo="http://ui.mrzutv2.net:8080/images/2679fa10fc8cd7b25141befbeb9606e9.png" group-title="24/7",24/7 POWER RANGERS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=303
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 ROBOTECH" tv2g-logo="http://ui.mrzutv2.net:8080/images/3e24e9e5fd8766664d12dfec17c235f6.png" group-title="24/7",24/7 ROBOTECH
-http://iptv-shortgod.ml/shortgod/apoya.php?c=304
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SAILOR MOON" tv2g-logo="https://w7.pngwing.com/pngs/641/622/png-transparent-sailor-moon-musicals-chibiusa-tuxedo-mask-sailor-mercury-fair-work-text-logo-sailor-mercury.png" group-title="24/7",24/7 SAILOR MOON
-http://iptv-shortgod.ml/shortgod/apoya.php?c=305
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  LOS SIMPSON" tv2g-logo="http://ui.mrzutv2.net:8080/images/2f5b6147106b070e0406e56efd1d067e.png" group-title="24/7",24/7  LOS SIMPSON
-http://iptv-shortgod.ml/shortgod/apoya.php?c=307
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SMALLVILLE" tv2g-logo="http://ui.mrzutv2.net:8080/images/7f0d3e708da0dd2a224bce0a5792068e.png" group-title="24/7",24/7 SMALLVILLE
-http://iptv-shortgod.ml/shortgod/apoya.php?c=308
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  SOUTH PARK" tv2g-logo="http://ui.mrzutv2.net:8080/images/a49e7b2a655d0e2e7c6c980de37691e1.png" group-title="24/7",24/7  SOUTH PARK
-http://iptv-shortgod.ml/shortgod/apoya.php?c=309
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SPIDER-MAN" tv2g-logo="http://ui.mrzutv2.net:8080/images/06ec361ec6044e62c15ca8be56ee9f02.png" group-title="24/7",24/7 SPIDER-MAN
-http://iptv-shortgod.ml/shortgod/apoya.php?c=310
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 STRANGER THINGS" tv2g-logo="https://logos-marcas.com/wp-content/uploads/2020/05/Stranger-Things-Logo.png" group-title="24/7",24/7 STRANGER THINGS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=311
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SUPER CAMPEONES" tv2g-logo="http://ui.mrzutv2.net:8080/images/b8d018e1d82ae9d53e15e00a0f66c86b.png" group-title="24/7",24/7 SUPER CAMPEONES
-http://iptv-shortgod.ml/shortgod/apoya.php?c=312
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Peliculas de terror" tv2g-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" group-title="24/7",24/7 Peliculas de terror
-http://iptv-shortgod.ml/shortgod/apoya.php?c=313
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 THUNDERCAST" tv2g-logo="http://ui.mrzutv2.net:8080/images/cd2366373823a341c6c9fbedc6585d5c.png" group-title="24/7",24/7 THUNDERCAST
-http://iptv-shortgod.ml/shortgod/apoya.php?c=314
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  THE WALKING DEAD" tv2g-logo="http://ui.mrzutv2.net:8080/images/77f9efb17d96fb6ed8a3d831ad313a14.png" group-title="24/7",24/7  THE WALKING DEAD
-http://iptv-shortgod.ml/shortgod/apoya.php?c=315
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 BARNY Y SUS AMIGOS" tv2g-logo="http://176.9.51.86:8080/images/9ebdfee2487de7d284d8f1d703fbd211.png" group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=316
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 BOB ESPONJA" tv2g-logo="http://176.9.51.86:8080/images/3e68abad70ea868d332899e0f9a7133f.png" group-title="24/7",24/7 BOB ESPONJA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=317
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  CAILLOU" tv2g-logo="http://ui.mrzutv2.net:8080/images/ebd69793a9dcd9fde617c8d10e835c79.png" group-title="24/7",24/7  CAILLOU
-http://iptv-shortgod.ml/shortgod/apoya.php?c=318
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL COYOTE Y CORRE CAMINOS" tv2g-logo="http://ui.mrzutv2.net:8080/images/dc67663de8bd7a2643df33eec231e1bc.png" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=319
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tv2g-logo="http://ui.mrzutv2.net:8080/images/e078b425b65ad4c83189646a89e9acef.png" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=320
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 HAPPY TREE FRIENDS" tv2g-logo="http://ui.mrzutv2.net:8080/images/b8360d3687c840438370cdb00af3c3b8.png" group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=321
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA RISA EN VACIONES" tv2g-logo="http://ui.mrzutv2.net:8080/images/f34b890d3dc9245b8655203c20190d2a.png" group-title="24/7",24/7 LA RISA EN VACIONES
-http://iptv-shortgod.ml/shortgod/apoya.php?c=322
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LAZY TOWN" tv2g-logo="https://i.ibb.co/34Pp8yr/Sin-t-tulo-1.png" group-title="24/7",24/7 LAZY TOWN
-http://iptv-shortgod.ml/shortgod/apoya.php?c=323
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA PANTERA ROSA" tv2g-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="24/7",24/7 LA PANTERA ROSA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=325
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PEPPA PIG" tv2g-logo="https://i.ibb.co/MnsgDgb/Sin-t-tulo-1.png" group-title="24/7",24/7 PEPPA PIG
-http://iptv-shortgod.ml/shortgod/apoya.php?c=326
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA HORA PICO" tv2g-logo="https://i.ibb.co/02xSdK6/Sin-t-tulo-1.png" group-title="24/7",24/7 LA HORA PICO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=327
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 HÃ‰ROES EN PIJAMAS" tv2g-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=328
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Shark Tank MÃ©xico TEP 2" tv2g-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
-http://iptv-shortgod.ml/shortgod/apoya.php?c=329
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Shark Tank MÃ©xico TEP 1" tv2g-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
-http://iptv-shortgod.ml/shortgod/apoya.php?c=330
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 XMEN ANIME" tv2g-logo="https://i.ibb.co/rfw9JT7/Sin-t-tulo-1.png" group-title="24/7",24/7 XMEN ANIME
-http://iptv-shortgod.ml/shortgod/apoya.php?c=331
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 BREAKING  BAD" tv2g-logo="https://i.ibb.co/cYcjH1p/Sin-t-tulo-1.png" group-title="24/7",24/7 BREAKING  BAD
-http://iptv-shortgod.ml/shortgod/apoya.php?c=332
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 CABALLEROS DEL ZODIACO" tv2g-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=333
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA CASA DE PAPEL" tv2g-logo="https://i.ibb.co/C7x8Kkn/Sin-t-tulo-1.png" group-title="24/7",24/7 LA CASA DE PAPEL
-http://iptv-shortgod.ml/shortgod/apoya.php?c=334
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL CHAVO DEL 8" tv2g-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",24/7 EL CHAVO DEL 8
-http://iptv-shortgod.ml/shortgod/apoya.php?c=335
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL CHEMA" tv2g-logo="https://i.ibb.co/n7K614v/Sin-t-tulo-1.png" group-title="24/7",24/7 EL CHEMA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=336
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tv2g-logo="https://i.ibb.co/Pzw8gnq/Sin-t-tulo-1.png" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=337
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  CORAJE EL PERRO COBARDE" tv2g-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://iptv-shortgod.ml/shortgod/apoya.php?c=338
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 CSI: MIAMI" tv2g-logo="https://i.ibb.co/XJv3tmW/Sin-t-tulo-1.png" group-title="24/7",24/7 CSI: MIAMI
-http://iptv-shortgod.ml/shortgod/apoya.php?c=339
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  CUENTRO GREEM" tv2g-logo="https://i.ibb.co/0mszb5j/Sin-t-tulo-1.png" group-title="24/7",24/7  CUENTRO GREEM
-http://iptv-shortgod.ml/shortgod/apoya.php?c=340
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DRAGON BALL SUPER" tv2g-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="24/7",24/7 DRAGON BALL SUPER
-http://iptv-shortgod.ml/shortgod/apoya.php?c=341
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 ALF" tv2g-logo="http://176.9.51.86:8080/images/d3953c357517751ced51ebf3230cd8f3.png" group-title="24/7",24/7 ALF
-http://iptv-shortgod.ml/shortgod/apoya.php?c=342
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SHERA" tv2g-logo="https://i.ibb.co/wQyzP8j/Sin-t-tulo-1.png" group-title="24/7",24/7 SHERA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=343
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  DINOSAURIOS 1991" tv2g-logo="https://i.ibb.co/2N0DH83/Sin-t-tulo-1.png" group-title="24/7",24/7  DINOSAURIOS 1991
-http://iptv-shortgod.ml/shortgod/apoya.php?c=344
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  DRAGON BALL 1984" tv2g-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",24/7  DRAGON BALL 1984
-http://iptv-shortgod.ml/shortgod/apoya.php?c=345
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DRAGON BALL GT 1996" tv2g-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="24/7",24/7 DRAGON BALL GT 1996
-http://iptv-shortgod.ml/shortgod/apoya.php?c=346
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DRAGON BALL Z 1989" tv2g-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",24/7 DRAGON BALL Z 1989
-http://iptv-shortgod.ml/shortgod/apoya.php?c=347
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL CHAPULIN COLORADO" tv2g-logo="https://i.ibb.co/N6GHxhG/Sin-t-tulo-1.png" group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=348
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL PATRON DEL MAL " tv2g-logo="https://i.ibb.co/fnBGGZG/Sin-t-tulo-1.png" group-title="24/7",24/7 EL PATRON DEL MAL 
-http://iptv-shortgod.ml/shortgod/apoya.php?c=349
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PELICULAS ESTRENOS 2018" tv2g-logo="https://i.ibb.co/7V6B8Kn/Sin-t-tulo-1.png" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
-http://iptv-shortgod.ml/shortgod/apoya.php?c=350
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 FUTURAMA 1999" tv2g-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="24/7",24/7 FUTURAMA 1999
-http://iptv-shortgod.ml/shortgod/apoya.php?c=351
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 JUEGO DE TRONOS" tv2g-logo="https://i.ibb.co/MSLsDJQ/Sin-t-tulo-1.png" group-title="24/7",24/7 JUEGO DE TRONOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=352
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 He-Man" tv2g-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="24/7",24/7 He-Man
-http://iptv-shortgod.ml/shortgod/apoya.php?c=353
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA ROSA DE GUADALUPE" tv2g-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://iptv-shortgod.ml/shortgod/apoya.php?c=354
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LOS LOCOS ADDAMS" tv2g-logo="https://i.ibb.co/VH2Q9Cm/Sin-t-tulo-1.png" group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=355
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA FAMILIA MONSTERS 1964" tv2g-logo="https://i.ibb.co/QQ1kTMM/Sin-t-tulo-1.png" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://iptv-shortgod.ml/shortgod/apoya.php?c=356
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LUIS MIGUEL LA SERIE 2018" tv2g-logo="https://i.ibb.co/d46Lb8Z/Sin-t-tulo-1.png" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://iptv-shortgod.ml/shortgod/apoya.php?c=357
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Malcolm in the middle 2000" tv2g-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" group-title="24/7",24/7 Malcolm in the middle 2000
-http://iptv-shortgod.ml/shortgod/apoya.php?c=358
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 AÃ‘OS MARAVILLOSOS 1988" tv2g-logo="https://i.ibb.co/sFXV1Qn/Sin-t-tulo-1.png" group-title="24/7",24/7 AÃ‘OS MARAVILLOSOS 1988
-http://iptv-shortgod.ml/shortgod/apoya.php?c=359
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Mazinger Z" tv2g-logo="https://i.ibb.co/3kppzZ1/Sin-t-tulo-1.png" group-title="24/7",24/7 Mazinger Z
-http://iptv-shortgod.ml/shortgod/apoya.php?c=360
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Naruto" tv2g-logo="https://i.ibb.co/7NWNKJJ/Sin-t-tulo-1.png" group-title="24/7",24/7 Naruto
-http://iptv-shortgod.ml/shortgod/apoya.php?c=361
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PINKY y CEREBRO" tv2g-logo="https://i.ibb.co/1nMBxwn/Sin-t-tulo-1.png" group-title="24/7",24/7 PINKY y CEREBRO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=362
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PokÃ©mon" tv2g-logo="https://i.ibb.co/vdf4ht2/Sin-t-tulo-1.png" group-title="24/7",24/7 PokÃ©mon
-http://iptv-shortgod.ml/shortgod/apoya.php?c=363
-#EXTINF:-1 tv2g-logo="https://i.imgur.com/3akxcS6.png" group-title="Aporte", https://paypal.me/MGHacker1
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tv2g-id="" tv2g-name="ANUNCIO SHORTGOD" tv2g-logo="" group-title="ShortGod",ANUNCIO: ShortGod
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8#EXTM3U
-#EXTINF:-1 tv2g-logo="https://i.imgur.com/3akxcS6.png" group-title="Aporte", https://paypal.me/MGHacker1
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tv2g-id="" tv2g-name="ANUNCIO SHORTGOD" tv2g-logo="" group-title="ShortGod",ANUNCIO: ShortGod
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 POWER RANGERS" tv2g-logo="http://ui.mrzutv2.net:8080/images/2679fa10fc8cd7b25141befbeb9606e9.png" group-title="24/7",24/7 POWER RANGERS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=303
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 ROBOTECH" tv2g-logo="http://ui.mrzutv2.net:8080/images/3e24e9e5fd8766664d12dfec17c235f6.png" group-title="24/7",24/7 ROBOTECH
-http://iptv-shortgod.ml/shortgod/apoya.php?c=304
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SAILOR MOON" tv2g-logo="https://w7.pngwing.com/pngs/641/622/png-transparent-sailor-moon-musicals-chibiusa-tuxedo-mask-sailor-mercury-fair-work-text-logo-sailor-mercury.png" group-title="24/7",24/7 SAILOR MOON
-http://iptv-shortgod.ml/shortgod/apoya.php?c=305
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  LOS SIMPSON" tv2g-logo="http://ui.mrzutv2.net:8080/images/2f5b6147106b070e0406e56efd1d067e.png" group-title="24/7",24/7  LOS SIMPSON
-http://iptv-shortgod.ml/shortgod/apoya.php?c=307
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SMALLVILLE" tv2g-logo="http://ui.mrzutv2.net:8080/images/7f0d3e708da0dd2a224bce0a5792068e.png" group-title="24/7",24/7 SMALLVILLE
-http://iptv-shortgod.ml/shortgod/apoya.php?c=308
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  SOUTH PARK" tv2g-logo="http://ui.mrzutv2.net:8080/images/a49e7b2a655d0e2e7c6c980de37691e1.png" group-title="24/7",24/7  SOUTH PARK
-http://iptv-shortgod.ml/shortgod/apoya.php?c=309
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SPIDER-MAN" tv2g-logo="http://ui.mrzutv2.net:8080/images/06ec361ec6044e62c15ca8be56ee9f02.png" group-title="24/7",24/7 SPIDER-MAN
-http://iptv-shortgod.ml/shortgod/apoya.php?c=310
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 STRANGER THINGS" tv2g-logo="https://logos-marcas.com/wp-content/uploads/2020/05/Stranger-Things-Logo.png" group-title="24/7",24/7 STRANGER THINGS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=311
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SUPER CAMPEONES" tv2g-logo="http://ui.mrzutv2.net:8080/images/b8d018e1d82ae9d53e15e00a0f66c86b.png" group-title="24/7",24/7 SUPER CAMPEONES
-http://iptv-shortgod.ml/shortgod/apoya.php?c=312
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Peliculas de terror" tv2g-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" group-title="24/7",24/7 Peliculas de terror
-http://iptv-shortgod.ml/shortgod/apoya.php?c=313
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 THUNDERCAST" tv2g-logo="http://ui.mrzutv2.net:8080/images/cd2366373823a341c6c9fbedc6585d5c.png" group-title="24/7",24/7 THUNDERCAST
-http://iptv-shortgod.ml/shortgod/apoya.php?c=314
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  THE WALKING DEAD" tv2g-logo="http://ui.mrzutv2.net:8080/images/77f9efb17d96fb6ed8a3d831ad313a14.png" group-title="24/7",24/7  THE WALKING DEAD
-http://iptv-shortgod.ml/shortgod/apoya.php?c=315
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 BARNY Y SUS AMIGOS" tv2g-logo="http://176.9.51.86:8080/images/9ebdfee2487de7d284d8f1d703fbd211.png" group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=316
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 BOB ESPONJA" tv2g-logo="http://176.9.51.86:8080/images/3e68abad70ea868d332899e0f9a7133f.png" group-title="24/7",24/7 BOB ESPONJA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=317
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  CAILLOU" tv2g-logo="http://ui.mrzutv2.net:8080/images/ebd69793a9dcd9fde617c8d10e835c79.png" group-title="24/7",24/7  CAILLOU
-http://iptv-shortgod.ml/shortgod/apoya.php?c=318
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL COYOTE Y CORRE CAMINOS" tv2g-logo="http://ui.mrzutv2.net:8080/images/dc67663de8bd7a2643df33eec231e1bc.png" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=319
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tv2g-logo="http://ui.mrzutv2.net:8080/images/e078b425b65ad4c83189646a89e9acef.png" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=320
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 HAPPY TREE FRIENDS" tv2g-logo="http://ui.mrzutv2.net:8080/images/b8360d3687c840438370cdb00af3c3b8.png" group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=321
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA RISA EN VACIONES" tv2g-logo="http://ui.mrzutv2.net:8080/images/f34b890d3dc9245b8655203c20190d2a.png" group-title="24/7",24/7 LA RISA EN VACIONES
-http://iptv-shortgod.ml/shortgod/apoya.php?c=322
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LAZY TOWN" tv2g-logo="https://i.ibb.co/34Pp8yr/Sin-t-tulo-1.png" group-title="24/7",24/7 LAZY TOWN
-http://iptv-shortgod.ml/shortgod/apoya.php?c=323
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA PANTERA ROSA" tv2g-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="24/7",24/7 LA PANTERA ROSA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=325
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PEPPA PIG" tv2g-logo="https://i.ibb.co/MnsgDgb/Sin-t-tulo-1.png" group-title="24/7",24/7 PEPPA PIG
-http://iptv-shortgod.ml/shortgod/apoya.php?c=326
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA HORA PICO" tv2g-logo="https://i.ibb.co/02xSdK6/Sin-t-tulo-1.png" group-title="24/7",24/7 LA HORA PICO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=327
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 HÃ‰ROES EN PIJAMAS" tv2g-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=328
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Shark Tank MÃ©xico TEP 2" tv2g-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
-http://iptv-shortgod.ml/shortgod/apoya.php?c=329
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Shark Tank MÃ©xico TEP 1" tv2g-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
-http://iptv-shortgod.ml/shortgod/apoya.php?c=330
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 XMEN ANIME" tv2g-logo="https://i.ibb.co/rfw9JT7/Sin-t-tulo-1.png" group-title="24/7",24/7 XMEN ANIME
-http://iptv-shortgod.ml/shortgod/apoya.php?c=331
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 BREAKING  BAD" tv2g-logo="https://i.ibb.co/cYcjH1p/Sin-t-tulo-1.png" group-title="24/7",24/7 BREAKING  BAD
-http://iptv-shortgod.ml/shortgod/apoya.php?c=332
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 CABALLEROS DEL ZODIACO" tv2g-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=333
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA CASA DE PAPEL" tv2g-logo="https://i.ibb.co/C7x8Kkn/Sin-t-tulo-1.png" group-title="24/7",24/7 LA CASA DE PAPEL
-http://iptv-shortgod.ml/shortgod/apoya.php?c=334
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL CHAVO DEL 8" tv2g-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",24/7 EL CHAVO DEL 8
-http://iptv-shortgod.ml/shortgod/apoya.php?c=335
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL CHEMA" tv2g-logo="https://i.ibb.co/n7K614v/Sin-t-tulo-1.png" group-title="24/7",24/7 EL CHEMA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=336
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tv2g-logo="https://i.ibb.co/Pzw8gnq/Sin-t-tulo-1.png" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=337
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  CORAJE EL PERRO COBARDE" tv2g-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://iptv-shortgod.ml/shortgod/apoya.php?c=338
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 CSI: MIAMI" tv2g-logo="https://i.ibb.co/XJv3tmW/Sin-t-tulo-1.png" group-title="24/7",24/7 CSI: MIAMI
-http://iptv-shortgod.ml/shortgod/apoya.php?c=339
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  CUENTRO GREEM" tv2g-logo="https://i.ibb.co/0mszb5j/Sin-t-tulo-1.png" group-title="24/7",24/7  CUENTRO GREEM
-http://iptv-shortgod.ml/shortgod/apoya.php?c=340
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DRAGON BALL SUPER" tv2g-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="24/7",24/7 DRAGON BALL SUPER
-http://iptv-shortgod.ml/shortgod/apoya.php?c=341
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 ALF" tv2g-logo="http://176.9.51.86:8080/images/d3953c357517751ced51ebf3230cd8f3.png" group-title="24/7",24/7 ALF
-http://iptv-shortgod.ml/shortgod/apoya.php?c=342
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 SHERA" tv2g-logo="https://i.ibb.co/wQyzP8j/Sin-t-tulo-1.png" group-title="24/7",24/7 SHERA
-http://iptv-shortgod.ml/shortgod/apoya.php?c=343
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  DINOSAURIOS 1991" tv2g-logo="https://i.ibb.co/2N0DH83/Sin-t-tulo-1.png" group-title="24/7",24/7  DINOSAURIOS 1991
-http://iptv-shortgod.ml/shortgod/apoya.php?c=344
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7  DRAGON BALL 1984" tv2g-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",24/7  DRAGON BALL 1984
-http://iptv-shortgod.ml/shortgod/apoya.php?c=345
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DRAGON BALL GT 1996" tv2g-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="24/7",24/7 DRAGON BALL GT 1996
-http://iptv-shortgod.ml/shortgod/apoya.php?c=346
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 DRAGON BALL Z 1989" tv2g-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",24/7 DRAGON BALL Z 1989
-http://iptv-shortgod.ml/shortgod/apoya.php?c=347
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL CHAPULIN COLORADO" tv2g-logo="https://i.ibb.co/N6GHxhG/Sin-t-tulo-1.png" group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=348
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 EL PATRON DEL MAL " tv2g-logo="https://i.ibb.co/fnBGGZG/Sin-t-tulo-1.png" group-title="24/7",24/7 EL PATRON DEL MAL 
-http://iptv-shortgod.ml/shortgod/apoya.php?c=349
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PELICULAS ESTRENOS 2018" tv2g-logo="https://i.ibb.co/7V6B8Kn/Sin-t-tulo-1.png" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
-http://iptv-shortgod.ml/shortgod/apoya.php?c=350
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 FUTURAMA 1999" tv2g-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="24/7",24/7 FUTURAMA 1999
-http://iptv-shortgod.ml/shortgod/apoya.php?c=351
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 JUEGO DE TRONOS" tv2g-logo="https://i.ibb.co/MSLsDJQ/Sin-t-tulo-1.png" group-title="24/7",24/7 JUEGO DE TRONOS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=352
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 He-Man" tv2g-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="24/7",24/7 He-Man
-http://iptv-shortgod.ml/shortgod/apoya.php?c=353
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA ROSA DE GUADALUPE" tv2g-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://iptv-shortgod.ml/shortgod/apoya.php?c=354
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LOS LOCOS ADDAMS" tv2g-logo="https://i.ibb.co/VH2Q9Cm/Sin-t-tulo-1.png" group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://iptv-shortgod.ml/shortgod/apoya.php?c=355
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LA FAMILIA MONSTERS 1964" tv2g-logo="https://i.ibb.co/QQ1kTMM/Sin-t-tulo-1.png" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://iptv-shortgod.ml/shortgod/apoya.php?c=356
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 LUIS MIGUEL LA SERIE 2018" tv2g-logo="https://i.ibb.co/d46Lb8Z/Sin-t-tulo-1.png" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://iptv-shortgod.ml/shortgod/apoya.php?c=357
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Malcolm in the middle 2000" tv2g-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" group-title="24/7",24/7 Malcolm in the middle 2000
-http://iptv-shortgod.ml/shortgod/apoya.php?c=358
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 AÃ‘OS MARAVILLOSOS 1988" tv2g-logo="https://i.ibb.co/sFXV1Qn/Sin-t-tulo-1.png" group-title="24/7",24/7 AÃ‘OS MARAVILLOSOS 1988
-http://iptv-shortgod.ml/shortgod/apoya.php?c=359
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Mazinger Z" tv2g-logo="https://i.ibb.co/3kppzZ1/Sin-t-tulo-1.png" group-title="24/7",24/7 Mazinger Z
-http://iptv-shortgod.ml/shortgod/apoya.php?c=360
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 Naruto" tv2g-logo="https://i.ibb.co/7NWNKJJ/Sin-t-tulo-1.png" group-title="24/7",24/7 Naruto
-http://iptv-shortgod.ml/shortgod/apoya.php?c=361
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PINKY y CEREBRO" tv2g-logo="https://i.ibb.co/1nMBxwn/Sin-t-tulo-1.png" group-title="24/7",24/7 PINKY y CEREBRO
-http://iptv-shortgod.ml/shortgod/apoya.php?c=362
-#EXTINF:-1 tv2g-id="" tv2g-name="24/7 PokÃ©mon" tv2g-logo="https://i.ibb.co/vdf4ht2/Sin-t-tulo-1.png" group-title="24/7",24/7 PokÃ©mon
-http://iptv-shortgod.ml/shortgod/apoya.php?c=363
-#EXTINF:-1 tv2g-logo="https://i.imgur.com/3akxcS6.png" group-title="Aporte", https://paypal.me/MGHacker1
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tv2g-id="" tv2g-name="ANUNCIO SHORTGOD" tv2g-logo="" group-title="ShortGod",ANUNCIO: ShortGod
-http://free-shortgod.ml/anuncio-shortgod.php?anuncio&gratuito.m3u8﻿
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",GOLDEN SPOR PAKETI
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 1 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1682.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BEIN 3 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4373.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 4 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4374.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 1 Max [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/3910.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 2 Max [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4284.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BEIN 1 SD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/8.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BeIN Haber HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4394.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 1++ (H265) 50FPS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4406.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BEIN 1 PLUS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4285.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 3 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4195.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN beIN 4 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4196.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BeIN Max 1 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4399.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BeIN MAX 2 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4400.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN Tivibu 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64444.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN Tivibu 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4359.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN Tivibu 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/3769.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN Smart HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/3973.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN Smart HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4296.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | SSPORTS HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4360.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | SSPORTS HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4286.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | SSPORTS 2 HD (sadece mac)
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4414.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN NBA HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4372.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | EuroSport 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1916.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | EuroSport 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1915.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | TRT Sport HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/11.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | A Spor HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/12.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GS tv
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1913.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",₪₪₪[ TURKEY CHANNELS ]₪₪₪
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4371.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | TRT 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4199.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | KanalD HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4203.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | Startv HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4200.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | ATV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4206.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | A2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4257.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | SHOWTV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4202.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | TV8.5 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4197.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | FOX HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4204.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | BeyazTV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4205.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | Kanal7 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4395.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | SKY 360 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4201.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | TRT Haber HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4265.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | A Haber HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4266.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | CNNTURK HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4268.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | HaberTurk HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4267.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | BeinMovies Stars HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4264.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | BeinMovies Family HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4226.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | beINSeries SCI-FI HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4231.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | MovieSmart Platin HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4229.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | MovieSmart Action HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4233.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | MovieSmart Gold HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4238.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | MovieSmart FEST HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4235.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | MovieSmart Turk HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4236.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | DiziSmart Premium HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4237.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | Nat Geo Wild HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4242.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | Nat Geo People HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4244.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | Discovery Channel HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4243.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | beIN iz Tv HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/254.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | DMAX
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/9.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",₪₪₪[ EUROPEAN SPORTS ]₪₪₪
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4346.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",DE | Sky Sport 1 FHD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4345.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",DE=SKY=SPORT1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4207.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",DE=SKY=SPORT2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4210.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",DE=SKY=BUNDESLIGA1=HD=PLUS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4208.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",DE=SKY=BUNDESLIGA1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4239.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",DE=EUROSPORT=2=EXRA
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4393.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Fox Sports 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4211.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Fox Sports 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4213.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Fox Sports 4 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4214.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Fox Sports 5 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4215.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Ziggo Select
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4315.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Ziggo Extra 1
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4316.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Ziggo Extra 2
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4317.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",NL | Ziggo Sport Golf
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4318.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=SKY=SPORTS=PREMIER=LEAGUE=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4216.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK | Sky sport Main Event
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4220.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK | Sky sport Main Event SD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4356.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=SKY=SPORTS=CRICKET=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4219.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=SKY=SPORTS=ACTION=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4218.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=SKY=SPORT=ARENA=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4358.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=SKY=SPORTS=GOLF=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4217.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=BT=SPORT=1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4321.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=BT=SPORT=2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4322.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",UK=BT=SPORT=3=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4323.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEINSPORT1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4221.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEINSPORT2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4222.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEINSPORT3=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4298.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEIN=SPORT=MAX=4=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4375.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEIN=SPORT=MAX=5=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4376.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEIN=SPORT=MAX=6=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4377.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEIN=SPORT=MAX=7=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4378.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEIN=SPORT=MAX=8=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4379.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=BEIN=SPORT=MAX=9=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4380.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",FR=CANAL=PLUS=SPORT=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4307.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",AL=EX=YOU=SPORT=KLUP=2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4351.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",AL=EX=YOU=SPORT=KLUP=3=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4352.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",VIP | Bein Sport 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4270.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",VIP | Bein Sport 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4271.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",VIP | Bein Sport 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4272.ts
-#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",VIP=BEIN=SPORTS5=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4274.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",₪₪₪[GOLDEN SPOR PAKETI]₪₪₪
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 1 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1682.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN 2 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4194.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN 3 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4373.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 4 HD [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4374.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 1 Max [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/3910.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 2 Max [MAG]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4284.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN 1 SD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/8.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 1 HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4258.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 2 HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4259.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 3 HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4260.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 4 HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4261.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 1 Max [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4397.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 2 Max [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4398.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BeIN Haber HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4394.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BeIN 4K
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4405.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 1++ (H265) 50FPS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4406.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN 1 PLUS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4285.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 2 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4287.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 3 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4195.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 4 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4196.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BeIN Max 1 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4399.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BeIN MAX 2 Plus
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4400.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN CONNECT 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64447.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN CONNECT 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64448.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN CONNECT 4 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64449.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN CONNECT 5 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64450.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN Tivibu 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64444.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN Tivibu 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4359.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN Tivibu 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/3769.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN Smart HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/3973.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN Smart HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4296.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | SSPORTS HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4360.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN BEIN CONNECT 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64446.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | SSPORTS HD [VIP]
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4286.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | SSPORTS 2 HD (sadece mac)
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4414.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN NBA HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4372.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | EuroSport 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1916.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | EuroSport 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1915.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | TRT Sport HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/11.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | TRT Spor 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/64445.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | A Spor HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/12.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | GS tv
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1913.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | FB TV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/1914.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TURKEY CHANNELS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4371.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | TRT 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4199.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | KanalD HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4203.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | Startv HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4200.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | ATV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4206.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | A2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4257.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | SHOWTV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4202.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | TV8 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4198.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | TV8.5 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4197.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | FOX HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4204.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | BeyazTV HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4205.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | Kanal7 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4395.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | SKY 360 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4201.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | TRT Haber HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4265.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | A Haber HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4266.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | CNNTURK HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4268.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | HaberTurk HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4267.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | BeinMovies Premier HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4262.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | BeinMovies Action HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4263.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | BeinMovies Stars HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4264.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | BeinMovies Family HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4226.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | Bein Movies Turk HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4232.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | beINSeries SCI-FI HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4231.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart Premium HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4230.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart Platin HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4229.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart Family HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4234.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart Action HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4233.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart Gold HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4238.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart FEST HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4235.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | MovieSmart Turk HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4236.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | DiziSmart Premium HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4237.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | Nat Geo Wild HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4242.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | National Geographic HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4241.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | Nat Geo People HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4244.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | Discovery Channel HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4243.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | beIN iz Tv HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/254.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",TR | DMAX
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/9.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",EUROPEAN SPORTS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4346.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",DE | Sky Sport 1 FHD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4345.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",DE=SKY=SPORT1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4207.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",DE=SKY=SPORT2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4210.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",DE=SKY=BUNDESLIGA1=HD=PLUS
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4208.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",DE=SKY=BUNDESLIGA1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4239.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",DE=EUROSPORT=2=EXRA
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4393.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",IT=SKY=SPORT=1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4336.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",IT | Sky Sport 1
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4335.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",IT=SKY=MOTO=GP=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4343.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Fox Sports 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4211.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Fox Sports 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4212.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Fox Sports 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4213.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Fox Sports 4 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4214.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Fox Sports 5 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4215.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Fox Sports 6 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4320.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Ziggo Select
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4315.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Ziggo Extra 1
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4316.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Ziggo Extra 2
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4317.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Ziggo Sport Racing
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4319.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",NL | Ziggo Sport Golf
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4318.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=SKY=SPORTS=PREMIER=LEAGUE=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4216.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK | Sky sport Main Event
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4220.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK | Sky sport Main Event SD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4356.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=SKY=SPORTS=CRICKET=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4219.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=SKY=SPORTS=ACTION=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4218.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=SKY=SPORT=ARENA=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4358.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=SKY=SPORTS=GOLF=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4217.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=BT=SPORT=1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4321.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=BT=SPORT=2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4322.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=BT=SPORT=3=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4323.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=SKY=SPORTS=F1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4325.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=AT=THE=RACES=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4349.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",UK=RACING=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4326.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEINSPORT1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4221.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEINSPORT2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4222.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEINSPORT3=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4298.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEIN=SPORT=MAX=4=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4375.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEIN=SPORT=MAX=5=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4376.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEIN=SPORT=MAX=6=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4377.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEIN=SPORT=MAX=7=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4378.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEIN=SPORT=MAX=8=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4379.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=BEIN=SPORT=MAX=9=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4380.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",FR=CANAL=PLUS=SPORT=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4307.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",AL=EX=YOU=SPORT=KLUP=1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4350.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",AL=EX=YOU=SPORT=KLUP=2=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4351.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",AL=EX=YOU=SPORT=KLUP=3=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4352.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",EX: YOU Sport Klup4
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4353.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",EX: YOU Sport Klup5
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4354.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",AL=EX=YOU=ARENA=SPORT=1=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4279.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP | Bein Sport 1 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4270.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP | Bein Sport 2 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4271.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP | Bein Sport 3 HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4272.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP=BEIN=SPORTS4=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4273.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP=BEIN=SPORTS5=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4274.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP=BEIN=SPORTS6=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4275.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP=BEIN=SPORTS7=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4276.ts
-#EXTINF:-1 group-title="GOLDEN SPOR",VIP=BEIN=SPORTS8=HD
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4277.ts
-#EXTINF:-1 ,The incredible ibex defies gravity and climbs a dam | Forces of Nature with Brian Cox - BBC
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/movie/lyOgyE6yUH/QjRd1x5UhZ/4416.mp4
-#EXTINF:-1 tvg-id="Deportes 1" tvg-logo="https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg" group-title="DEPORTES",Eventos Deportivos mix
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://www.davidstreams.com/wp-content/uploads/2015/08/el-tenis.jpg" group-title="DEPORTES",Evento Historico
-https://playoutengine.sinclair.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 2
-https://playoutengine.sinclairstoryline.com:443/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 3
-https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 4
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 5
-https://playoutengine.sinclairstoryline.com:443/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 6
-https://playoutengine.sinclairstoryline.com:443/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 7
-https://playoutengine.sinclairstoryline.com:443/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 8
-https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8
 
-
-#EXTINF:-1 group-title="DEPORTES",BT SPORT 1
+#EXTINF:-1 group-title="DEPORTES-LMS",BT SPORT 1
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",NBA
+#EXTINF:-1 group-title="DEPORTES-LMS",BT SPORT 2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",NBA
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",GOLF
+#EXTINF:-1 group-title="DEPORTES-LMS",GOLF
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Premiere Football HD1
+#EXTINF:-1 group-title="DEPORTES-LMS", Premiere Football HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Premiere Football HD3
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Premiere Football HD4
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Premiere Football HD5
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",TRUESPORT HD
+#EXTINF:-1 group-title="DEPORTES-LMS",TRUESPORT HD
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",TRUESPORT HD2
+#EXTINF:-1 group-title="DEPORTES-LMS",TRUESPORT HD2
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",TRUE SPORT 4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DEPORTES-LMS",TRUESPORT HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD
+#EXTINF:-1 group-title="DEPORTES-LMS",FOX SPORTS HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+#EXTINF:-1 group-title="DEPORTES-LMS",FOX SPORTS 2
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",ESPN NORTE
+#EXTINF:-1 group-title="DEPORTES-LMS",FOX SPORTS 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",ESPN NORTE
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",F1 NORTE
-http://164.68.124.111/fs1.m3u8
+#EXTINF:-1 group-title="DEPORTES-LMS",Fox Sport Norte
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",N 24 TV
-https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",SKY Sport
+#EXTINF:-1 group-title="DEPORTES-LMS",SKY Sport
 http://31.220.41.90:8081/live/skysports-maineventz.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Tele Condor
-https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TNT SPORT
+#EXTINF:-1 group-title="DEPORTES-LMS",TNT SPORT
 http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",TIGO SPORT
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8?SBN
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 01
+http://77.247.109.92/hls/W1.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 11
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 11
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 13
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 13
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 15
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 15
 http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 19
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 19
 http://23.237.78.54/live-1000/263/playlist.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 38
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 38
 https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 62
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",Unknown 63
-http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/129329
-
-#EXTINF:-1 group-title="DEPORTES",Unknown 68 TVP SPORT HD
-https://dipdxjic51jcl.cloudfront.net:443/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8?SBN
-
-#EXTINF:-1 group-title="DEPORTES",Unknown 70 TyC SPORT
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 70 TyC SPORT
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/be5636c6c01057bec95887daaa1fa93a/playlist.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 72
-http://164.68.124.111/fs1.m3u8?SBN
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 71 ESPN BRASIL HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?SBN
 
-#EXTINF:-1 group-title="DEPORTES",Unknown 73 FS1 HD
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 73 FS1 HD
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?SBN
+
 
 
 
